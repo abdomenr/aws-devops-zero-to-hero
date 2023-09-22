@@ -1,4 +1,4 @@
-# aws-devops-zero-to-hero
+# aws-zero-to-hero
 
 Complete YouTube playlist -[AWS Zero to Hero by somtech](https://www.youtube.com/playlist?list=PLQVm4u8RVEYMBpOTLYpDynWAp-pL_DHNU)
 
